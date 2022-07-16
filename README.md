@@ -11,7 +11,7 @@ The idea behind this ML project is to build an ML model and web application that
 
 
 ## Data
-[here](https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset)
+You can get the dataset from kaggle over [here](https://www.kaggle.com/datasets/altruistdelhite04/loan-prediction-problem-dataset)
 
 ## Approach
 Following steps are performed:
